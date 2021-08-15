@@ -1,7 +1,7 @@
 import numpy as np
 import sympy as sp
 import math
-from sympy import *
+from sympy import Symbol, sqrt
 from sympy.vector import CoordSys3D
 from sympy.physics.vector import ReferenceFrame, cross, dot
 N = CoordSys3D('N')
