@@ -1,4 +1,4 @@
-from vetores import *
+from vetores import Symbol, init_printing, CoordSys3D, math, cos, sin, Prime, Prime2, simplify, integrate, areaUV
 init_printing(use_unicode=False, wrap_line=False)
 N = CoordSys3D('N')
 t = Symbol('t')

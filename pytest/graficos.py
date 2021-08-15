@@ -12,4 +12,3 @@ ax.view_init(25, 20)
 ax.set_xticks([-2, -1, 0, 1, 2])
 ax.set_yticks([-2, -1, 0, 1, 2])
 ax.set_zticks([0, 5, 10, 15, 20])
- 
